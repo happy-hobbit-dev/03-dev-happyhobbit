@@ -1,4 +1,5 @@
 <script>
+	import { page } from '$app/stores';
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
 
